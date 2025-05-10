@@ -1,3 +1,3 @@
 # Git-demo
 
-author - Satish Patil
+author - Satish Patil (Demo)
